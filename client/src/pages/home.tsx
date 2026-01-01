@@ -29,7 +29,7 @@ export default function HomePage() {
                <img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop" className="w-full h-full object-cover opacity-40 scale-105" alt="Factory" />
             </div>
             <div className="flex-[0_0_100%] min-w-0 relative">
-               <img src="https://images.unsplash.com/photo-1626176395349-8e50b16f195d?q=80&w=2070&auto=format&fit=crop" className="w-full h-full object-cover opacity-40 scale-105" alt="Packaging" />
+               <img src="https://i.ibb.co/tMSfxZ81/1767250180782.png" className="w-full h-full object-cover opacity-40 scale-105" alt="Packaging" />
             </div>
           </div>
         </div>
