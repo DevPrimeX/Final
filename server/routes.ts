@@ -145,7 +145,7 @@ async function seedDatabase() {
     // Let's rely on the auth system to hash.
     await storage.createUser({
       username: "admin",
-      password: await hashPassword("password123"),
+      password: await hashPassword("Lokesh86"),
       isAdmin: true
     });
   }
